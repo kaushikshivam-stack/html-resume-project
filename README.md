@@ -32,4 +32,8 @@ Organizing files for a web project
 
 Deploying a website using GitHub Pages
 
+## 📸 Project Screenshot
+
+![Resume Project](Screenshot1.png)
+
 ⭐ This project represents my progress as a beginner web developer and will be improved further with CSS.
